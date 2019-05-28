@@ -1,4 +1,4 @@
-# Git Course
+# GuitarFlashBot
 
 Resolução da tela: 1366 x 768
 
