@@ -1,5 +1,5 @@
 # Git Course
 
-Este é um repositorio teste para ensinar como o GIT funciona.
+Resolução da tela: 1366 x 768
 
-Teste da aula 11
+Posicionamento no centro do jogo, para as cordenadas que detectam as cores funcionar
